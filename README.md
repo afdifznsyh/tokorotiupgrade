@@ -17,3 +17,4 @@ Berikut ringkasan update terbaru
 1. Controller di pisah buat authentikasi (Login/register) sama CRUD (dll)
 2. Setiap table  dan model sudah dibuat migrate
 3. Di controllernya yang Object DB:: diubah pake object model (Transaksi, dll)
+4. Menambahkan form tambah dan edit.
